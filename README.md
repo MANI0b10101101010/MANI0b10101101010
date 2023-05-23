@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# programming language ;
 - 🌱 I’m currently learning "Visual Studio Windows Form C#" ;
 - 💞️ I’m looking to collaborate on Group projects with my team ;
-- 📫 How to reach = Null ;
+- 📫 How to reach = null ;
 
 <!---
 MANI0b10101101010/MANI0b10101101010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
